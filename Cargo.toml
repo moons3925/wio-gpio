@@ -1,0 +1,11 @@
+[package]
+name = "wio-gpio"
+version = "0.1.0"
+authors = ["moon"]
+edition = "2018"
+
+[dependencies]
+wio_terminal = "0.3.0"
+panic-halt = "0.2"
+wio_lib = { path = "wio_lib" }
+
