@@ -1,5 +1,6 @@
-# wio-term
-Wio Terminal で L チカする(デバッグ環境用)
+# wio-gpio
+
+Wio Terminal の LEDとボタン (デバッグ環境用)
 
 ## setting.json
 
@@ -10,5 +11,4 @@ Wio Terminal で L チカする(デバッグ環境用)
 
 ## ブログ
 
-[WioでRust 開発環境を構築する](https://moons.link/wio/post-24/)
-
+準備中
